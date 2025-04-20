@@ -5,6 +5,9 @@
 (デモのアプリケーションはPythonで動作しているものとします)  
 (このコンテンツは教育目的で作成されたものであり、システムの悪用を助長する意図はありません)
 
+![image](https://github.com/user-attachments/assets/c7bc90db-649a-4d30-8cc6-d3a2556ab828)
+
+
 ---
 
 ## 1. 直接入力操作系攻撃（Direct Input Manipulation Attacks）
